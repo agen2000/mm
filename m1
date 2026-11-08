@@ -1,0 +1,900 @@
+央视频道,#genre#
+CCTV1,rtsp://115.153.254.117/PLTV/88888888/224/3221225699/iptv8040.smil
+CCTV1,rtsp://115.153.254.117/PLTV/88888888/224/3221225517/iptv7949.smil
+CCTV2,rtsp://115.153.254.117/PLTV/88888888/224/3221226825/59814584.smil
+CCTV3,rtsp://115.153.254.117/PLTV/88888888/224/3221226930/65406412.smil
+CCTV3,rtsp://115.153.254.117/PLTV/88888888/224/3221226841/63329606.smil
+CCTV4,rtsp://115.153.254.117/PLTV/88888888/224/3221226838/59814684.smil
+CCTV5,rtsp://115.153.254.117/PLTV/88888888/224/3221226907/65396401.smil
+CCTV5,rtsp://115.153.254.117/PLTV/88888888/224/3221226852/63329574.smil
+CCTV5+,rtsp://115.153.254.117/PLTV/88888888/224/3221226976/85722488.smil
+CCTV6,rtsp://115.153.254.117/PLTV/88888888/224/3221226909/65396493.smil
+CCTV6,rtsp://115.153.254.117/PLTV/88888888/224/3221226843/63329570.smil
+CCTV7,rtsp://115.153.254.117/PLTV/88888888/224/3221226827/59814693.smil
+CCTV17,rtsp://115.153.254.117/PLTV/88888888/224/3221226846/61397282.smil
+CCTV8,rtsp://115.153.254.117/PLTV/88888888/224/3221226911/65406606.smil
+CCTV8,rtsp://115.153.254.117/PLTV/88888888/224/3221226854/63329578.smil
+CCTV9,rtsp://115.153.254.117/PLTV/88888888/224/3221226840/59814699.smil
+CCTV10,rtsp://115.153.254.117/PLTV/88888888/224/3221226630/51813372.smil
+CCTV11,rtsp://115.153.254.117/PLTV/88888888/224/3221226986/85722616.smil
+CCTV12,rtsp://115.153.254.117/PLTV/88888888/224/3221226829/59814709.smil
+CCTV13,rtsp://115.153.254.117/PLTV/88888888/224/3221227037/87447722.smil
+CCTV14,rtsp://115.153.254.117/PLTV/88888888/224/3221226634/51813368.smil
+CCTV15,rtsp://115.153.254.117/PLTV/88888888/224/3221226988/85722541.smil
+CCTV16,rtsp://115.153.254.117/PLTV/88888888/224/3221227051/92603106.smil
+
+CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
+CCTV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226825/59814584.smil
+CCTV3,rtsp://115.153.233.154/PLTV/88888888/224/3221226841/63329606.smil
+CCTV3,rtsp://115.153.212.72/PLTV/88888888/224/3221226930/65406412.smil
+CCTV4,rtsp://115.153.212.72/PLTV/88888888/224/3221226838/59814684.smil
+CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226852/63329574.smil
+CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
+CCTV5+,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
+CCTV6,rtsp://115.153.233.154/PLTV/88888888/224/3221226843/63329570.smil
+CCTV6,rtsp://115.153.212.72/PLTV/88888888/224/3221226909/65396493.smil
+CCTV7,rtsp://115.153.212.72/PLTV/88888888/224/3221226827/59814693.smil
+CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
+CCTV8,rtsp://115.153.233.154/PLTV/88888888/224/3221226854/63329578.smil
+CCTV8,rtsp://115.153.212.72/PLTV/88888888/224/3221226911/65406606.smil
+CCTV9,rtsp://115.153.212.72/PLTV/88888888/224/3221226840/59814699.smil
+CCTV10,rtsp://115.153.212.72/PLTV/88888888/224/3221226630/51813372.smil
+CCTV11,rtsp://115.153.233.154/PLTV/88888888/224/3221226986/85722616.smil
+CCTV12,rtsp://115.153.212.72/PLTV/88888888/224/3221226829/59814709.smil
+CCTV13,rtsp://115.153.233.154/PLTV/88888888/224/3221227037/87447722.smil
+CCTV14,rtsp://115.153.212.72/PLTV/88888888/224/3221226634/51813368.smil
+CCTV15,rtsp://115.153.233.154/PLTV/88888888/224/3221226988/85722541.smil
+CCTV16,http://39.134.116.30/PLTV/88888888/224/3221226230/index.m3u8
+
+CCTV1,https://stream1.freetv.fun/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8
+CCTV1,https://stream1.freetv.fun/354e2e055127bbf43693aa848d84f93f5bcc517472a8858f188f313dbf157f51.m3u8
+CCTV1,https://t.freetv.fun/live/cctv1.m3u8
+CCTV1,https://stream1.freetv.fun/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
+CCTV1,https://t.freetv.fun/live/cctv1-1.m3u8
+CCTV1,https://stream1.freetv.fun/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.m3u8
+CCTV1,https://stream1.freetv.fun/f1fa8406434117dfaa5c0b174fa90a31da74b1ad921fc3ce3662a40cff4d9001.m3u8
+CCTV1,https://stream1.freetv.fun/df7cf71b3e02015b9029ac087b3eec56fde92fd81d162962570629faec293037.m3u8
+CCTV1,https://t.freetv.fun/live/cctv1-6.m3u8
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=1
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=2
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=10
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=13
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=17
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=18
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=5
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
+CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV2,https://stream1.freetv.fun/8a900bfee2c4c2a59e04380dbfec553120369718ab7b0d63f2f5361b99ffc41a.m3u8
+CCTV2,https://stream1.freetv.fun/ada063c76ea9d561f08284d973fd7ef10fabf4ed18f2af169cdddd85a4b51113.m3u8
+CCTV2,https://stream1.freetv.fun/168b88ec9bef56433abeed33488f73f6971f2d5667506068ef7c2ebcff851ff2.m3u8
+CCTV2,https://stream1.freetv.fun/13d0211c9d0e6ac956f262af910b0509c7565f9f7f3f5a674a33d40b534a7cc1.m3u8
+CCTV2,https://stream1.freetv.fun/b2e1a9fc03f611173df519b2d54494eab6e2c9feafe182713f96c77e5677982e.m3u8
+CCTV2,https://stream1.freetv.fun/2396be1ac936b1b7a08d5b984d952a31c85f0d8e856b2615b4d8990e14076753.m3u8
+CCTV2,https://stream1.freetv.fun/062b52551baba0561e20bdc1f671de7f92ea1e7b432e5ac00ff8934a33e73779.m3u8
+CCTV2,https://stream1.freetv.fun/0c2d56a09c4103a4bd2a0b1fce3daaafa5402ea91fb9166faa2489ce5c440506.m3u8
+CCTV2,https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.m3u8
+CCTV2,https://stream1.freetv.fun/e1dc96915d2db9becf6a22f88cfa287e3b2b9a510649ba8c989e7609059fd20b.m3u8
+CCTV2,https://stream1.freetv.fun/8752f27902ce732a38212d0a9174e306b4ade352c88ab65ba1f59d23a0938c2f.m3u8
+CCTV2,https://t.freetv.fun/live/cctv2-11.m3u8
+CCTV2,https://stream1.freetv.fun/68809609406abd57c725f3f7b967a186f14dbd28fb55a5ffffe71d769aa06954.m3u8
+CCTV2,https://stream1.freetv.fun/e1d163d9eb7d373206ad477bb07cc5820cea80edf9bb02289d9eb7d641f9e071.m3u8
+CCTV2,https://stream1.freetv.fun/740facfce5eb3652083f1f23ac2a7aba7a7899446cf8f9a8ba57499f8e725dbd.m3u8
+CCTV2,https://stream1.freetv.fun/c211dc7c7e361326eeb316f377006a6121762f74c3888cffce2ca82411c5d284.m3u8
+CCTV2,https://stream1.freetv.fun/d6c1a851f2f79d30809b9559aadfaf6c70046913a43b61cda0b653a877209d0e.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV3,https://t.freetv.fun/live/cctv3-3.m3u8
+CCTV3,https://stream1.freetv.fun/2d9129721d5979db4d1a547476cfed2876edfd57ec4924abb7fa3f1da3a75462.m3u8
+CCTV3,https://stream1.freetv.fun/b22e79d26f8b854763e01840c45c06d68ac49b016a9004f3717c55e669ece64b.m3u8
+CCTV3,https://stream1.freetv.fun/1e0e775744a98d3524e67d4b4da0a9bc3c0b9cb9fbdf47fe76a0413a4089b940.m3u8
+CCTV3,https://stream1.freetv.fun/b670e71aa7496c31573fb6634748c2aa292b1dfa63656d10f2bbdb33b49a23fd.m3u8
+CCTV3,https://stream1.freetv.fun/82fcd2ea72d396253f82035b5542f2c7db3ae94823171ad4f4da6cbd95175d9a.m3u8
+CCTV3,https://stream1.freetv.fun/f839eb7b5d1df8d53a6f71a98ee9b1424bdfd2f8110fb566821bf8ac365aebd8.m3u8
+CCTV3,https://stream1.freetv.fun/16d797c043c92aca9939e30c9e2fb87cc8e12691c3e6850db080848c83fb7555.m3u8
+CCTV3,https://stream1.freetv.fun/8e8c6b586c67d965e35c468bd6011876326c1b6a4c9aea7b5d9b0212e57af20c.m3u8
+CCTV3,https://stream1.freetv.fun/33711cece64c9077907fa3caea452361f539772402550ca53ae2c9b00a3211b3.m3u8
+CCTV3,https://t.freetv.fun/live/cctv3-9.m3u8
+CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3&line=1
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3&line=6
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3&line=2
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3&line=5
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV4,https://stream1.freetv.fun/9dca82acae622047c106cad98fa866a026074d1dfd956b0a1f7555f6dd5077ad.m3u8
+CCTV4,https://stream1.freetv.fun/0e299805282d3470a1b2622405ec34d49fe09424ab15bdeaa14eb2442bb3c9cf.m3u8
+CCTV4,https://stream1.freetv.fun/6695f13d9d21c7db41f985c194e89b3e985f6c257c9555f989a489a45c196962.m3u8
+CCTV4,https://stream1.freetv.fun/e883b241b7e6be61d2659dd68b1d538f0dc881bae104df44b9a6f8323b6234c9.m3u8
+CCTV4,https://stream1.freetv.fun/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8
+CCTV4,https://stream1.freetv.fun/6caa56fec0c41d3a0a710a1d0bfcda38105e22d8e4110fabf7ab91a3f203f901.m3u8
+CCTV4,https://stream1.freetv.fun/0d839f5d81e4bf543f91e5413de15e99bc658de9826ea59d16333bc8cb664b44.m3u8
+CCTV4,https://stream1.freetv.fun/43229ec03f2ba5352c33770df9061aa26a5624068b51b1c1ed9ab98c9109acf6.m3u8
+CCTV4,https://stream1.freetv.fun/a722b1d2e56f302d937c1860fb90c5fa0f5cdc3154486dea6a906089073fc71a.m3u8
+CCTV4,https://stream1.freetv.fun/8af67b32b047b43e35713509603dd92263f344a13fae50eb202a7956458229fb.m3u8
+CCTV4,https://stream1.freetv.fun/2f1e3c9d65bfe24a6528f5bf7ef0c04c6f31d388d96148f28f7cd72a25cd9a8c.m3u8
+CCTV4,https://t.freetv.fun/live/cctv4-1.m3u8
+CCTV4,https://stream1.freetv.fun/ef9b087371bda4714a5baf1f17f93e9dc7cfd2890eab472f3058709c17b3315f.m3u8
+CCTV4,https://stream1.freetv.fun/65ac61c6c6a2b58f5eb41469958413367ff7af3ad84bc702885b5afd3327fcb0.m3u8
+CCTV4,https://stream1.freetv.fun/a08330156a94fcf328198df9c025121caaf5cca68fe9e303fa936ae40cee5887.m3u8
+CCTV4,https://stream1.freetv.fun/4d07bdd45298f5188e1e215d557f8b1703d924d4e874e864fd160d4d7f3cae16.m3u8
+CCTV4,https://stream1.freetv.fun/54376a4d22fadd3ac7fb8fcc0b92321f9a5736c597ad6f68cacb0a2e835cf92b.m3u8
+CCTV4,https://t.freetv.fun/live/cctv4.m3u8
+CCTV4,https://stream1.freetv.fun/1bf0211b5baaa7f1430933ff2f78b4a1117b0f8e250a718adfba91a694024f4d.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5,http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
+CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV5,https://stream1.freetv.fun/1d543a9b3d1f95681056c79434afa52f300eeb7e90d80779c6de9d945a80172e.m3u8
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=8
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=1
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5%2B
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=11
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=6
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=4
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=7
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=2
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=3
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=9
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=10
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=12
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5&line=5
+CCTV5,http://dd.ddzb.fun/php/migu.php?id=cctv5
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5+,http://23.237.228.134/live5/CCTV5p.m3u8
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2
+CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3
+CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1
+CCTV5+,http://dd.ddzb.fun/php/migu.php?id=cctv5p
+CCTV5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5720&tk=f6cc1e0a0e1a
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=tttt&id=0msREY&tk=FgM0vQMejxvG
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=tttt&id=UUAF8s&tk=FgM0vQMejxvG
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=tttt&id=OWbZsv&tk=FgM0vQMejxvG
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=tttt&id=9O5jfh&tk=FgM0vQMejxvG
+CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=tttt&id=UHwStw&tk=FgM0vQMejxvG
+CCTV5+,http://kkk.888.3116598.xyz/api.php?n=tttt&id=hWGyoN&tk=FgM0vQMejxvG
+CCTV5+,http://120.211.62.180:8000/hls/18/index.m3u8
+CCTV5+,https://t.freetv.fun/live/cctv5-plus-8.m3u8
+CCTV5+,https://stream1.freetv.fun/7af3bda5e82b9a70b557cd982a25e9b06490881a5e7a06f2f2027cdf1d8cf065.m3u8
+CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+CCTV5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV6,http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
+CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=5
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=2
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=9
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=10
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=6
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=3
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=8
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=4
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=7
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=12
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=13
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=11
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6&line=1
+CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
+CCTV6,https://t.freetv.fun/live/cctv6.m3u8
+CCTV6,https://t.freetv.fun/live/cctv6-2.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7,http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
+CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=9
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=6
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=8
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=1
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=2
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=3
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=7
+CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=5
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7&line=4
+CCTV7,http://dd.ddzb.fun/php/migu.php?id=cctv7
+CCTV7,https://stream1.freetv.fun/ac01cb50d02dc19b524e493e1d65202f058f6d2061d1d137e70d84fc4b1ff86f.m3u8
+CCTV7,https://t.freetv.fun/live/cctv7-4.m3u8
+CCTV7,https://t.freetv.fun/live/cctv-4kchao-gao-qing.m3u8
+CCTV7,https://stream1.freetv.fun/1ac4f534b2dbb039f6e3c6a98e44d0088fd1d34213687143a1ee521df16a4f90.m3u8
+CCTV7,https://t.freetv.fun/live/cctv-7hd.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV8,http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
+CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
+CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=2
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=5
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=4
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=8
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=1
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=10
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=13
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=15
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=12
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=7
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=9
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=14
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=6
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=11
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8&line=3
+CCTV8,https://t.freetv.fun/live/cctv8-2.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
+CCTV9,https://stream1.freetv.fun/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8
+CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=6
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=1
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=4
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=7
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=2
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=3
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=5
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9&line=8
+CCTV9,https://t.freetv.fun/live/cctv9-4.m3u8
+CCTV9,https://t.freetv.fun/live/cctv9.m3u8
+CCTV9,https://t.freetv.fun/live/cctv9-1.m3u8
+CCTV9,https://t.freetv.fun/live/cctv9-3.m3u8
+CCTV9,https://stream1.freetv.fun/3c6125aad8eab2287c7cb76da027f3e9673949eec3709dc9f3fd0e3ae9ab4548.m3u8
+CCTV9,https://stream1.freetv.fun/42ec063601b24e5ddb24832e5f5d56c71ca4d52922d298be84bbc21aa7429280.m3u8
+CCTV9,https://t.freetv.fun/live/cctv9-2.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
+CCTV10,https://stream1.freetv.fun/0dcbed2ed662304a0dfedbfd136a829adf1c5248c533627626fddff02fb1b19f.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-10.m3u8
+CCTV10,https://stream1.freetv.fun/a069427ccbbbce55eac15cf669f292774fdba54d938286ecaa0dfcb7209fa3c7.m3u8
+CCTV10,https://stream1.freetv.fun/702a248005dd0225d8ed1dfb970e3a9bf4c3c41c0369865e4844b6130b4ff0d0.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-1.m3u8
+CCTV10,https://stream1.freetv.fun/f799599318015da6eec5ee838c7d8b18fc0f42177d00ea972d167878b7364da4.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-2.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-5.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-4.m3u8
+CCTV10,https://stream1.freetv.fun/9ff529699f3b6a0d5a7f0aae87d4944817ba39cc804d10262699252a5a624bf2.m3u8
+CCTV10,https://t.freetv.fun/live/cctv-10-2.m3u8
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=4
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=3
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=8
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=7
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=2
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10&line=5
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV11,http://23.237.228.134/live3/CCTV11.m3u8
+CCTV11,https://stream1.freetv.fun/635ba8554e3fc76ebc506d5883bd01d5fff103a7cee73ee07099cc8e2c1b6499.m3u8
+CCTV11,https://stream1.freetv.fun/c23a4f52a9d9d0b34759b80498722011be190bd0d11d4425312946cb5f42cc75.m3u8
+CCTV11,https://stream1.freetv.fun/a296e075276025c13fccaa815a2a2968db83b532e3dcdd87dea6d56e3b63152a.m3u8
+CCTV11,https://stream1.freetv.fun/d97937f325c81b2f57f5393f84f278753f1333cfb102b0077f647864187b224c.m3u8
+CCTV11,https://stream1.freetv.fun/c582369f1cbc0a3d932f6f6b04fbdee2da4f94b2f00d0ae29d3cd8e950dd1a34.m3u8
+CCTV11,https://stream1.freetv.fun/a2291aca1f34c2adb00726f287981230a15e9fe84c5350e104f7704947052e52.m3u8
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV11,https://t.freetv.fun/live/cctv11.m3u8
+CCTV11,https://stream1.freetv.fun/522d8760b9c0e8172aefbf6b1aac7030daf6f613fabce8b1d00a15416ad0b052.m3u8
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=3
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=4
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=1
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=6
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=5
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=7
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11&line=2
+CCTV11,https://t.freetv.fun/live/cctv-11hd.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV12,https://t.freetv.fun/live/cctv12-17.m3u8
+CCTV12,https://stream1.freetv.fun/73e76f84f85f78d63807bfb8e51dff03850f7d1cafd1c6521d6eb45272bc4ead.m3u8
+CCTV12,https://stream1.freetv.fun/2c98c616dcd0625e1925f95296d9a84fa33e6837825cc93edd4ec07f6d4b6ac0.m3u8
+CCTV12,https://stream1.freetv.fun/b0468d79ea902e3b48781da5ff9767e3fa65491b9944500bab58e8fd9bced0f3.m3u8
+CCTV12,https://stream1.freetv.fun/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.m3u8
+CCTV12,https://t.freetv.fun/live/cctv12.m3u8
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=4
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=8
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=7
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=6
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=5
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=1
+CCTV12,http://dd.ddzb.fun/php/migu.php?id=cctv12
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=2
+CCTV12,http://69.30.246.194/live/cctv12.m3u8
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12&line=3
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV13,https://stream1.freetv.fun/81625edf2cc9baae0d7f7cf1e070e6ba05b2acd4056442384577655089e0843c.m3u8
+CCTV13,https://stream1.freetv.fun/45f42d1a050cf53e2d50d82e9c5091876cc2c2a46d16ada78a48b171e214bba7.m3u8
+CCTV13,https://stream1.freetv.fun/8322a5f8f9ef01ab3c6b242a7007dbfea4003032f7ddd7e74060d3c9e742c531.m3u8
+CCTV13,https://stream1.freetv.fun/dbe09664abd438c8571db1ff21d0b8ada1c9009e3a7c90681d9ec1592cf9d726.m3u8
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV13,https://cdn3.163189.xyz/163189/cctv13
+CCTV13,https://stream1.freetv.fun/f775810be10706600c58373ca47c369fa14a21c1fb1fb953645eaa89b7811b7f.m3u8
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=6
+CCTV13,https://t.freetv.fun/live/cctv13-21.m3u8
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=4
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=14
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=1
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=2
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=11
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=3
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=9
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=12
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=7
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13&line=5
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV14,https://stream1.freetv.fun/810e8e594bbd7f110f164ca1f3297900a5be91468d81db0d55494d7a6f79eb19.m3u8
+CCTV14,https://stream1.freetv.fun/8f6505ecfb83f5ad8315a7c890fed614f4d9133eae5b0a8660f84929d8b93543.m3u8
+CCTV14,https://stream1.freetv.fun/78970ff02c50cfd535efc596098dfb95492606854b2b65164bfb76f84da88f4f.m3u8
+CCTV14,https://t.freetv.fun/live/cctv14hd.m3u8
+CCTV14,https://stream1.freetv.fun/0615172c9e083d70772bf6d78ffcd4e344e9b95aaa026d603259348488832520.m3u8
+CCTV14,https://stream1.freetv.fun/6dbe9409e344cd6ab113ba8cb1d0f675f7c9e00b968f8e80a5b2f344c22bb030.m3u8
+CCTV14,https://stream1.freetv.fun/83461ebfd58cb4e8f2b1f8582cec3c09dfaf945443cc97f13750342a92d55b41.m3u8
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+CCTV14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=3
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=6
+CCTV14,http://dd.ddzb.fun/php/migu.php?id=cctv14
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=5
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=2
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=4
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14&line=1
+CCTV14,https://t.freetv.fun/live/cctv14.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV15,http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
+CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV15,https://stream1.freetv.fun/6ed8fc384e8f939f9a548d6869b196cc89795d1239acd78e7cecf3876f60ea67.m3u8
+CCTV15,https://stream1.freetv.fun/658ddc6e789ce16786ad546cf9f8be98fe107f282b045ab77998da6caf499a0d.m3u8
+CCTV15,https://stream1.freetv.fun/cbe825bf5f80f456b334a01413e11a83d5e5815a60ab7ab9367b5749adb15d29.m3u8
+CCTV15,https://stream1.freetv.fun/cb3c72e7254e40411c7136bafb32bd8e1b6f4739c265c52851cff323a6a22b77.m3u8
+CCTV15,https://stream1.freetv.fun/28ec8c575a461279bf71bed75bce89aa23f34a7a2e74252f3331446589be19ae.m3u8
+CCTV15,https://t.freetv.fun/live/cctv15-1.m3u8
+CCTV15,https://stream1.freetv.fun/b17180549193f12c2104b05f75c124ca1702e96917aba74a23c8ac88fd7ea0df.m3u8
+CCTV15,https://t.freetv.fun/live/cctv15-2.m3u8
+CCTV15,https://stream1.freetv.fun/d8c678257099a8f24e3bb33a4f9059014ddf1de229ef366a1870f56c11b57c90.m3u8
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=1
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=3
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=2
+CCTV15,http://dd.ddzb.fun/php/migu.php?id=cctv15
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15&line=5
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15
+CCTV15,http://69.30.246.194/live/cctv15.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV16,http://dd.ddzb.fun/php/migu.php?id=cctv16
+CCTV16,https://iptv.catvod.com/live.php?id=CCTV16&line=2
+CCTV16,https://iptv.catvod.com/live.php?id=CCTV16&line=1
+CCTV16,https://iptv.catvod.com/live.php?id=CCTV16
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV16,https://stream1.freetv.fun/3fa27f5bf8136b49f28d477a805f1219c588cf21ffbada685497c73431d20c6e.m3u8
+CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
+CCTV16,https://t.freetv.fun/live/cctv16-3.m3u8
+CCTV16,http://69.30.246.194/live/cctv16.m3u8
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
+CCTV16,http://kkk.888.3116598.xyz/api.php?n=tttt&id=EU5wNH&tk=FgM0vQMejxvG
+CCTV16,http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ur5nnx&tk=FgM0vQMejxvG
+CCTV16,http://kkk.888.3116598.xyz/api.php?n=tttt&id=FLiBUu&tk=FgM0vQMejxvG
+CCTV16,http://kkk.888.3116598.xyz/api.php?n=tttt&id=WDJR2O&tk=FgM0vQMejxvG
+CCTV16,http://kkk.888.3116598.xyz/api.php?n=tttt&id=hS36LX&tk=FgM0vQMejxvG
+CCTV16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
+CCTV17,https://stream1.freetv.fun/d8b7ff5633a3ddbce9eaa0ff2431fa601b88302391aa01a7e37fbd2d940a7079.m3u8
+CCTV17,https://stream1.freetv.fun/e70da46c7c0d4f2fff20967d48a6b0da3683e291d0b9a54b8bd22f36f2c46c4e.m3u8
+CCTV17,https://t.freetv.fun/live/cctv17.m3u8
+CCTV17,https://t.freetv.fun/live/cctv17-3.m3u8
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV17,http://dd.ddzb.fun/php/migu.php?id=cctv17
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=3
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=7
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=2
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=5
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=1
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=8
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=6
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17&line=4
+CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV17,https://t.freetv.fun/live/cctv17-1.m3u8
+CCTV17,http://kkk.888.3116598.xyz/api.php?n=tttt&id=FikbIE&tk=FgM0vQMejxvG
+CCTV17,http://kkk.888.3116598.xyz/api.php?n=tttt&id=RNeK17&tk=FgM0vQMejxvG
+
+CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
+CHC高清电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil
+CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
+中国教育1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
+中国教育2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
+中国教育4,rtsp://115.153.233.154/PLTV/88888888/224/3221226905/65242632.smil
+卫视频道,#genre#
+湖南卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227393/796388549.smil 
+湖南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225697/iptv8039.smil
+江苏卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227398/796414327.smil 
+江苏卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225766/10000100000000060000000000913517_0.smil
+浙江卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227400/796432153.smil 
+浙江卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil
+东方卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227402/796552555.smil
+东方卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225770/10000100000000060000000000913526_0.smil
+北京卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227384/712205226.smil 
+北京卫视,rtsp://115.153.254.72/PLTV/88888888/224/3221227248/119886813.smil
+北京卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225546/iptv51912.smil
+广东卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227388/757998294.smil
+广东卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225957/10000100000000060000000000913519_0.smil
+深圳卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227387/758004386.smil 
+深圳卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225764/10000100000000060000000000913503_0.smil
+江西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil
+辽宁卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226649/46098370.smil
+山东卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225919/10000100000000060000000000811554_0.smil
+山东卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227406/796588506.smil 
+安徽卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226622/51176344.smil
+东南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226677/51176347.smil
+黑龙江卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225584/10000100000000060000000000031778_0.smil
+吉林卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226831/59814731.smil
+天津卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226652/46098366.smil
+湖北卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225827/10000100000000060000000000470332_2.smil
+重庆卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226638/51813388.smil
+四川卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227404/796574813.smil 
+四川卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226693/51813384.smil
+贵州卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226833/59814738.smil
+河北卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226821/59781859.smil
+河南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226842/59814787.smil
+广西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226954/71778425.smil
+云南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226937/72640386.smil
+海南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226933/70442779.smil
+甘肃卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221227039/87447727.smil
+青海卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225589/iptv7985.smil
+陕西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225755/iptv101726.smil
+山西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225551/iptv7966.smil
+宁夏卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225747/iptv101619.smil
+内蒙古卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225591/iptv7986.smil
+新疆卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225550/iptv61197.smil
+西藏卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225570/iptv101725.smil
+兵团卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225753/iptv101723.smil
+江西频道,#genre#
+江西都市,rtsp://115.153.254.117/PLTV/88888888/224/3221227069/94448631.smil
+江西经济生活,rtsp://115.153.254.117/PLTV/88888888/224/3221226946/70055407.smil
+江西经济生活,rtsp://115.153.254.117/PLTV/88888888/224/3221226717/53707446.smil
+江西公共农业,rtsp://115.153.254.117/PLTV/88888888/224/3221226708/53213097.smil
+江西少儿,rtsp://115.153.254.117/PLTV/88888888/224/3221226938/68733921.smil
+江西新闻,rtsp://115.153.254.117/PLTV/88888888/224/3221226650/53190437.smil
+江西IPTV1,rtsp://115.153.254.117/PLTV/88888888/224/3221226956/72788191.smil
+江西IPTV2,rtsp://115.153.254.117/PLTV/88888888/224/3221226958/72788248.smil
+江西教育,rtsp://115.153.254.117/PLTV/88888888/224/3221226942/69552502.smil
+南昌新闻综合,rtsp://115.153.254.117/PLTV/88888888/224/3221227078/113409131.smil
+南昌新闻综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+南昌都市,rtsp://115.153.254.117/PLTV/88888888/224/3221227075/113409249.smil
+南昌资讯,rtsp://115.153.254.117/PLTV/88888888/224/3221227080/113409255.smil
+赣州新闻综合,rtsp://115.153.254.117/PLTV/88888888/224/3221227254/121266741.smil
+赣州综合,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
+赣州综合,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAI-YfkaMiPoX&secondToken=secondToken%3A4xWxvR0YiNTgTjnOqTX93KNNPk8&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526329228525&v3=1
+赣州综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_ganzhou.m3u8
+赣州公共,rtsp://115.153.254.117/PLTV/88888888/224/3221227262/121375235.smil
+赣州公共,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAABmq7pwEifoX&secondToken=secondToken%3AzG0JU8A6fwL6O15xTMTT-AEauzI&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526334096251&v3=1
+赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
+赣州教育,rtsp://115.153.254.117/PLTV/88888888/224/3221227263/121375179.smil
+赣州教育,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAAav2MXuiPoX&secondToken=secondToken%3AnlVfgzcJ_IMwc-NV78V1ZrRtw9w&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526335287668&v3=1
+赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
+九江新闻综合,rtsp://115.153.254.117/PLTV/88888888/224/3221227268/122499157.smil
+九江综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jiujiang.m3u8
+九江公共,rtsp://115.153.254.117/PLTV/88888888/224/3221227270/122499168.smil
+九江教育,rtsp://115.153.254.117/PLTV/88888888/224/3221225607/iptv7994.smil
+吉安新闻综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
+抚州综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_fuzhou.m3u8
+上饶新闻综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_shangrao.m3u8
+新余新闻,https://play-live-hls.jxtvcn.com.cn/live-city/tv_xinyu.m3u8
+宜春新闻,https://play-live-hls.jxtvcn.com.cn/live-city/tv_yichun.m3u8
+萍乡综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+萍乡综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_pingxiang.m3u8
+萍乡公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
+景德镇综合,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jingdezhen.m3u8
+景德镇综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_jingdezhen.m3u8
+鹰潭新闻,http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.m3u8
+赣州综合,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
+赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
+赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
+章贡综合,http://218.95.14.41:8000/hls/stream0.m3u8
+南康综合,https://play-a2.quklive.com/live/1754552273622186.m3u8
+大余综合,http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b
+上犹综合,http://zhibo.jxxw.com.cn/live/shangytv.m3u8?txSecret=4f9e7f5fcfe547ad51992f5ef0e4aadf&txTime=69F30AD9
+定南综合,http://zhibo.jxxw.com.cn/live/chingytv.m3u8?txSecret=7d9f0a4680022a48521b10ac449d7f05&txTime=6A1BF750
+赣县综合,http://zhibo.jxxw.com.cn/live/ganxtv.m3u8?txSecret=5de6c9d1b218f12d37fafef4b49b8fc9&txTime=69F30AD9
+宁都综合,http://zhibo.jxxw.com.cn/live/ningdutv.m3u8?txSecret=6ec7ededd99203d30be1a53b981decd0&txTime=74fd3bdb&txTime=74fd3bdb
+信丰综合,http://zhibo.jxxw.com.cn/live/dingntv.m3u8?txSecret=343ddfceeecd29f43c7d7eb36fabfa39&txTime=69F30A3F
+抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
+抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
+萍乡综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+庐山电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+萍乡新闻综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+萍乡新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_pingxiang.m3u8
+萍乡公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
+景德镇综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
+鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
+余干综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
+大余综合,http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b&txTime=72ee001b
+武宁综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
+修水综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
+永修一套,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+永修综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+广昌综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
+分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8
+彭泽综合,rtmp://play-a2.quklive.com/live/1740970999257207
+万载综合,rtmp://play-a2.quklive.com/live/1739162440932308
+景德镇综合,rtmp://play-sh.quklive.com/live/1724916607073321
+体育频道,#genre#
+纬来体育台,http://vip.bhh.indevs.in/smt2.php?id=videolandsport
+Elta体育1台,http://vip.bhh.indevs.in/smt2.php?id=eltasport1_twn
+Elta體育2台,http://vip.bhh.indevs.in/smt2.php?id=eltasport2_twn
+Elta體育3台,http://vip.bhh.indevs.in/smt2.php?id=eltasport3_twn
+Elta体育1台,https://yg.ygbox.de5.net/smt2.php?id=eltasport1_twn
+Elta體育2台,https://yg.ygbox.de5.net/smt2.php?id=eltasport2_twn
+Elta體育3台,https://yg.ygbox.de5.net/smt2.php?id=eltasport3_twn
+博斯运动 1,https://yg.ygbox.de5.net/smt2.php?id=bosisport1_twn
+博斯运动 2,https://yg.ygbox.de5.net/smt2.php?id=bosisport2_twn
+博斯高球2 HD,https://yg.ygbox.de5.net/smt2.php?id=bosigolf2_twn
+博斯网球 HD,https://yg.ygbox.de5.net/smt2.php?id=bositennis_twn
+Astro PL 1,http://vip.bhh.indevs.in/smt2.php?id=Assp1
+Astro PL 1 (Back Up 1),http://vip.bhh.indevs.in/smt2.php?id=go_assp1
+Astro PL 1 (Back Up 2),http://vip.bhh.indevs.in/smt2.php?id=go_assp1x
+Astro W-Sports,http://vip.bhh.indevs.in/smt2.php?id=go_assp5
+Astro PL 2,http://vip.bhh.indevs.in/smt2.php?id=go_assp2
+WWE,http://vip.bhh.indevs.in/smt2.php?id=Wwe
+博斯高球2 HD,http://vip.bhh.indevs.in/smt2.php?id=bosigolf2_twn
+博斯网球 HD,http://vip.bhh.indevs.in/smt2.php?id=bositennis_twn
+Fight Sports,http://vip.bhh.indevs.in/smt2.php?id=Fs
+NBA TV,http://vip.bhh.indevs.in/smt2.php?id=Nba
+Arena,http://vip.bhh.indevs.in/smt2.php?id=Arena
+Arena 2,http://vip.bhh.indevs.in/smt2.php?id=Arena2
+Arena Bola 1,http://vip.bhh.indevs.in/smt2.php?id=Bolaarena1
+Arena Bola 2,http://vip.bhh.indevs.in/smt2.php?id=Bolaarena2
+Astro Golf,http://vip.bhh.indevs.in/smt2.php?id=Agolf
+RTM Sports HD,http://vip.bhh.indevs.in/smt2.php?id=Rtmsport
+Astro Football,http://vip.bhh.indevs.in/smt2.php?id=go_assp4
+Astro Football (Back Up 1),http://vip.bhh.indevs.in/smt2.php?id=Assp4
+Astro Badminton,http://vip.bhh.indevs.in/smt2.php?id=go_badminton1
+Astro Badminton 2,http://vip.bhh.indevs.in/smt2.php?id=go_badminton2
+SPOTV 1 HD,http://vip.bhh.indevs.in/smt2.php?id=go_spotv
+SPO TV 2,http://vip.bhh.indevs.in/smt2.php?id=go_spotv2
+CCTV-5 體育,http://vip.bhh.indevs.in/smt2.php?id=cctv5
+CCTV-5+ 體育,http://vip.bhh.indevs.in/smt2.php?id=cctv5plus
+Supersports 2,http://vip.bhh.indevs.in/smt2.php?id=Assp2
+Astro Grandstand,http://vip.bhh.indevs.in/smt2.php?id=go_assp3
+Astro Cricket,http://vip.bhh.indevs.in/smt2.php?id=Acricket
+Tnt Sports 1,http://vip.bhh.indevs.in/smt2.php?id=tntsport1
+Astro Grandstand (Back Up 1),http://vip.bhh.indevs.in/smt2.php?id=Assp3
+TNT Sports 2,http://vip.bhh.indevs.in/smt2.php?id=tntsport2
+TNT Sports 3,http://vip.bhh.indevs.in/smt2.php?id=tntsport3
+TNT Sports 4,http://vip.bhh.indevs.in/smt2.php?id=tntsport4
+Astro Sports Plus,http://vip.bhh.indevs.in/smt2.php?id=go_sportsplus
+
+Rugby Pass TV,http://vip.bhh.indevs.in/smt2.php?id=Rugbypasstv
+Astro Beinsports 1,http://vip.bhh.indevs.in/smt2.php?id=Astrobein1
+Astro Beinsports 2,http://vip.bhh.indevs.in/smt2.php?id=Astrobein2
+Astro Beinsports 3,http://vip.bhh.indevs.in/smt2.php?id=Astrobein3
+Skysports Cricket,http://vip.bhh.indevs.in/smt2.php?id=tiankongcricket
+Skysports EPL,http://vip.bhh.indevs.in/smt2.php?id=tiankongepl
+Skysports F1,http://vip.bhh.indevs.in/smt2.php?id=tiankongf1
+Skysports Golf,http://vip.bhh.indevs.in/smt2.php?id=tiankonggolf
+Skysports Main Event,http://vip.bhh.indevs.in/smt2.php?id=tiankongmain
+Skysports Mix,http://vip.bhh.indevs.in/smt2.php?id=tiankongmix
+Skysports Racing,http://vip.bhh.indevs.in/smt2.php?id=tiankongracing
+DAZN 1,http://vip.bhh.indevs.in/smt2.php?id=dazn1_twn
+DAZN 2,http://vip.bhh.indevs.in/smt2.php?id=dazn2_twn
+Eurosport,http://vip.bhh.indevs.in/smt2.php?id=Eurosport
+
+Astro PL 1,https://yg.ygbox.de5.net/smt2.php?id=Assp1
+Astro PL 1 (Back Up 1),https://yg.ygbox.de5.net/smt2.php?id=go_assp1
+Astro PL 1 (Back Up 2),https://yg.ygbox.de5.net/smt2.php?id=go_assp1x
+Astro W-Sports,https://yg.ygbox.de5.net/smt2.php?id=go_assp5
+Astro PL 2,https://yg.ygbox.de5.net/smt2.php?id=go_assp2
+WWE,https://yg.ygbox.de5.net/smt2.php?id=Wwe
+博斯高球2 HD,https://yg.ygbox.de5.net/smt2.php?id=bosigolf2_twn
+博斯网球 HD,https://yg.ygbox.de5.net/smt2.php?id=bositennis_twn
+Fight Sports,https://yg.ygbox.de5.net/smt2.php?id=Fs
+NBA TV,https://yg.ygbox.de5.net/smt2.php?id=Nba
+Arena,https://yg.ygbox.de5.net/smt2.php?id=Arena
+Arena 2,https://yg.ygbox.de5.net/smt2.php?id=Arena2
+Arena Bola 1,https://yg.ygbox.de5.net/smt2.php?id=Bolaarena1
+Arena Bola 2,https://yg.ygbox.de5.net/smt2.php?id=Bolaarena2
+Astro Golf,https://yg.ygbox.de5.net/smt2.php?id=Agolf
+RTM Sports HD,https://yg.ygbox.de5.net/smt2.php?id=Rtmsport
+Astro Football,https://yg.ygbox.de5.net/smt2.php?id=go_assp4
+Astro Football (Back Up 1),https://yg.ygbox.de5.net/smt2.php?id=Assp4
+Astro Badminton,https://yg.ygbox.de5.net/smt2.php?id=go_badminton1
+Astro Badminton 2,https://yg.ygbox.de5.net/smt2.php?id=go_badminton2
+SPOTV 1 HD,https://yg.ygbox.de5.net/smt2.php?id=go_spotv
+SPO TV 2,https://yg.ygbox.de5.net/smt2.php?id=go_spotv2
+CCTV-5 體育,https://yg.ygbox.de5.net/smt2.php?id=cctv5
+CCTV-5+ 體育,https://yg.ygbox.de5.net/smt2.php?id=cctv5plus
+Supersports 2,https://yg.ygbox.de5.net/smt2.php?id=Assp2
+Astro Grandstand,https://yg.ygbox.de5.net/smt2.php?id=go_assp3
+Astro Cricket,https://yg.ygbox.de5.net/smt2.php?id=Acricket
+Tnt Sports 1,https://yg.ygbox.de5.net/smt2.php?id=tntsport1
+Astro Grandstand (Back Up 1),https://yg.ygbox.de5.net/smt2.php?id=Assp3
+TNT Sports 2,https://yg.ygbox.de5.net/smt2.php?id=tntsport2
+TNT Sports 3,https://yg.ygbox.de5.net/smt2.php?id=tntsport3
+TNT Sports 4,https://yg.ygbox.de5.net/smt2.php?id=tntsport4
+Astro Sports Plus,https://yg.ygbox.de5.net/smt2.php?id=go_sportsplus
+
+Rugby Pass TV,https://yg.ygbox.de5.net/smt2.php?id=Rugbypasstv
+Astro Beinsports 1,https://yg.ygbox.de5.net/smt2.php?id=Astrobein1
+Astro Beinsports 2,https://yg.ygbox.de5.net/smt2.php?id=Astrobein2
+Astro Beinsports 3,https://yg.ygbox.de5.net/smt2.php?id=Astrobein3
+Skysports Cricket,https://yg.ygbox.de5.net/smt2.php?id=tiankongcricket
+Skysports EPL,https://yg.ygbox.de5.net/smt2.php?id=tiankongepl
+Skysports F1,https://yg.ygbox.de5.net/smt2.php?id=tiankongf1
+Skysports Golf,https://yg.ygbox.de5.net/smt2.php?id=tiankonggolf
+Skysports Main Event,https://yg.ygbox.de5.net/smt2.php?id=tiankongmain
+Skysports Mix,https://yg.ygbox.de5.net/smt2.php?id=tiankongmix
+Skysports Racing,https://yg.ygbox.de5.net/smt2.php?id=tiankongracing
+DAZN 1,https://yg.ygbox.de5.net/smt2.php?id=dazn1_twn
+DAZN 2,https://yg.ygbox.de5.net/smt2.php?id=dazn2_twn
+Eurosport,https://yg.ygbox.de5.net/smt2.php?id=Eurosport
+新闻频道,#genre#
+ABC News,http://vip.bhh.indevs.in/smt2.php?id=abcnews_glo
+iNews 互動新聞台,http://vip.bhh.indevs.in/smt2.php?id=inews_twn
+CBS HD,http://vip.bhh.indevs.in/smt2.php?id=cbshd_glo
+CBSN HD,http://vip.bhh.indevs.in/smt2.php?id=cbsn_glo
+CCTV-13 新聞與頻道,http://vip.bhh.indevs.in/smt2.php?id=cctv13
+CGTN,http://vip.bhh.indevs.in/smt2.php?id=CGTN
+DW (Deutsch),http://vip.bhh.indevs.in/smt2.php?id=dw_twn
+Fox News,http://vip.bhh.indevs.in/smt2.php?id=foxnews_twn
+NHK World,http://vip.bhh.indevs.in/smt2.php?id=nhkworld_japan
+TVBS News 新聞台,http://vip.bhh.indevs.in/smt2.php?id=tvbs_n
+Al-Jazeera,http://vip.bhh.indevs.in/smt2.php?id=aljazeera_twn
+Bloomberg News,http://vip.bhh.indevs.in/smt2.php?id=bloomberg_twn
+東森新聞 ETTV News,http://vip.bhh.indevs.in/smt2.php?id=ettvnews
+東森財經新聞 ETTV Business,http://vip.bhh.indevs.in/smt2.php?id=ettvcaijing_twn
+中天新聞 CTI News,http://vip.bhh.indevs.in/smt2.php?id=ctinews
+非凡新聞台,http://vip.bhh.indevs.in/smt2.php?id=feifannews_twn
+台視新聞台 TTV News,http://vip.bhh.indevs.in/smt2.php?id=ttvnews_twn
+民視新聞台 FTV News,http://vip.bhh.indevs.in/smt2.php?id=ftvnew_taiwan
+Al_Jazeera,http://vip.bhh.indevs.in/smt2.php?id=Aljazeera
+寰宇新聞台,http://vip.bhh.indevs.in/smt2.php?id=huanyuxinwen_twn
+中視新聞台,http://vip.bhh.indevs.in/smt2.php?id=zhongshinews_twn
+CNN,http://vip.bhh.indevs.in/smt2.php?id=Cnn
+CNN backup,http://vip.bhh.indevs.in/smt2.php?id=cnn_twn
+BBC World News,http://vip.bhh.indevs.in/smt2.php?id=Bbcnews
+BBC World News,http://vip.bhh.indevs.in/smt2.php?id=Bbcnews
+CNBC,http://vip.bhh.indevs.in/smt2.php?id=Cnbc
+Bloomberg TV,http://vip.bhh.indevs.in/smt2.php?id=Bloomberg
+CNA,http://vip.bhh.indevs.in/smt2.php?id=cna
+DW,http://vip.bhh.indevs.in/smt2.php?id=Dw
+France 24,http://vip.bhh.indevs.in/smt2.php?id=france24_twn
+France 24,http://vip.bhh.indevs.in/smt2.php?id=France24
+Skynews,http://vip.bhh.indevs.in/smt2.php?id=Skynews
+Skynews,http://vip.bhh.indevs.in/smt2.php?id=skynews_twn
+NHK Premium,http://vip.bhh.indevs.in/smt2.php?id=NHKpremium
+
+ABC News,https://yg.ygbox.de5.net/smt2.php?id=abcnews_glo
+iNews 互動新聞台,https://yg.ygbox.de5.net/smt2.php?id=inews_twn
+CBS HD,https://yg.ygbox.de5.net/smt2.php?id=cbshd_glo
+CBSN HD,https://yg.ygbox.de5.net/smt2.php?id=cbsn_glo
+CCTV-13 新聞與頻道,https://yg.ygbox.de5.net/smt2.php?id=cctv13
+CGTN,https://yg.ygbox.de5.net/smt2.php?id=CGTN
+DW (Deutsch),https://yg.ygbox.de5.net/smt2.php?id=dw_twn
+Fox News,https://yg.ygbox.de5.net/smt2.php?id=foxnews_twn
+NHK World,https://yg.ygbox.de5.net/smt2.php?id=nhkworld_japan
+TVBS News 新聞台,https://yg.ygbox.de5.net/smt2.php?id=tvbs_n
+Al-Jazeera,https://yg.ygbox.de5.net/smt2.php?id=aljazeera_twn
+Bloomberg News,https://yg.ygbox.de5.net/smt2.php?id=bloomberg_twn
+東森新聞 ETTV News,https://yg.ygbox.de5.net/smt2.php?id=ettvnews
+東森財經新聞 ETTV Business,https://yg.ygbox.de5.net/smt2.php?id=ettvcaijing_twn
+中天新聞 CTI News,https://yg.ygbox.de5.net/smt2.php?id=ctinews
+非凡新聞台,https://yg.ygbox.de5.net/smt2.php?id=feifannews_twn
+台視新聞台 TTV News,https://yg.ygbox.de5.net/smt2.php?id=ttvnews_twn
+民視新聞台 FTV News,https://yg.ygbox.de5.net/smt2.php?id=ftvnew_taiwan
+Al_Jazeera,https://yg.ygbox.de5.net/smt2.php?id=Aljazeera
+寰宇新聞台,https://yg.ygbox.de5.net/smt2.php?id=huanyuxinwen_twn
+中視新聞台,https://yg.ygbox.de5.net/smt2.php?id=zhongshinews_twn
+CNN,https://yg.ygbox.de5.net/smt2.php?id=Cnn
+CNN backup,https://yg.ygbox.de5.net/smt2.php?id=cnn_twn
+BBC World News,https://yg.ygbox.de5.net/smt2.php?id=Bbcnews
+BBC World News,https://yg.ygbox.de5.net/smt2.php?id=Bbcnews
+CNBC,https://yg.ygbox.de5.net/smt2.php?id=Cnbc
+Bloomberg TV,https://yg.ygbox.de5.net/smt2.php?id=Bloomberg
+CNA,https://yg.ygbox.de5.net/smt2.php?id=cna
+DW,https://yg.ygbox.de5.net/smt2.php?id=Dw
+France 24,https://yg.ygbox.de5.net/smt2.php?id=france24_twn
+France 24,https://yg.ygbox.de5.net/smt2.php?id=France24
+Skynews,https://yg.ygbox.de5.net/smt2.php?id=Skynews
+Skynews,https://yg.ygbox.de5.net/smt2.php?id=skynews_twn
+NHK Premium,https://yg.ygbox.de5.net/smt2.php?id=NHKpremium
+港澳台,#genre#
+凤凰卫视,http://vip.bhh.indevs.in/smt2.php?id=phoenixtv_hd
+鳳凰資訊,http://vip.bhh.indevs.in/smt2.php?id=phoenixinfo_hd
+凤凰香港,http://vip.bhh.indevs.in/smt2.php?id=hkphoenix_twn
+
+TVBS News 新聞台,http://vip.bhh.indevs.in/smt2.php?id=tvbs_n
+Asia Food Network,http://vip.bhh.indevs.in/smt2.php?id=Afc
+東森新聞 ETTV News,http://vip.bhh.indevs.in/smt2.php?id=ettvnews
+東森財經新聞 ETTV Business,http://vip.bhh.indevs.in/smt2.php?id=ettvcaijing_twn
+中天新聞 CTI News,http://vip.bhh.indevs.in/smt2.php?id=ctinews
+非凡新聞台,http://vip.bhh.indevs.in/smt2.php?id=feifannews_twn
+台視新聞台 TTV News,http://vip.bhh.indevs.in/smt2.php?id=ttvnews_twn
+Elta体育1台,http://vip.bhh.indevs.in/smt2.php?id=eltasport1_twn
+Elta體育2台,http://vip.bhh.indevs.in/smt2.php?id=eltasport2_twn
+Elta體育3台,http://vip.bhh.indevs.in/smt2.php?id=eltasport3_twn
+民視新聞台 FTV News,http://vip.bhh.indevs.in/smt2.php?id=ftvnew_taiwan
+寰宇新聞台,http://vip.bhh.indevs.in/smt2.php?id=huanyuxinwen_twn
+中視新聞台,http://vip.bhh.indevs.in/smt2.php?id=zhongshinews_twn
+
+TVBS 歡樂台,http://vip.bhh.indevs.in/smt2.php?id=tvbshuanle_twn
+TVBS HD,http://vip.bhh.indevs.in/smt2.php?id=tvbs
+中天娱乐 CTI Entertaiment,http://vip.bhh.indevs.in/smt2.php?id=ctient
+中天综合 CTI Metro,http://vip.bhh.indevs.in/smt2.php?id=ctizhonghe
+中天亚洲台,http://vip.bhh.indevs.in/smt2.php?id=ctiasia_twn
+台视 TTV HD,http://vip.bhh.indevs.in/smt2.php?id=ttv_taiwan
+台视综合台,http://vip.bhh.indevs.in/smt2.php?id=ttvzhonghe
+中视 HD,http://vip.bhh.indevs.in/smt2.php?id=zhongshihd_twn
+民视 HD,http://vip.bhh.indevs.in/smt2.php?id=ftvhd_taiwan
+民视台湾台,http://vip.bhh.indevs.in/smt2.php?id=ftvtaiwan_twn
+华视 CTS HD,http://vip.bhh.indevs.in/smt2.php?id=ctshd_twn
+公视 CTV,http://vip.bhh.indevs.in/smt2.php?id=ctv18_twn
+八大第一 GTV First,http://vip.bhh.indevs.in/smt2.php?id=badafirst
+八大综合 GTV Metro,http://vip.bhh.indevs.in/smt2.php?id=badazhonghe
+八大戏剧 GTV Drama,http://vip.bhh.indevs.in/smt2.php?id=badadrama
+八大娱乐 GTV Entertainment,http://vip.bhh.indevs.in/smt2.php?id=badaentertain
+HBO_HD,http://vip.bhh.indevs.in/smt2.php?id=hbohd_twn
+HBO_HITS,http://vip.bhh.indevs.in/smt2.php?id=hbohits_twn
+HBO Signature Taiwan,http://vip.bhh.indevs.in/smt2.php?id=hbosignature_twn
+Hollywood Movies,http://vip.bhh.indevs.in/smt2.php?id=hollywoodmovies_twn
+三立台湾 Sanli Taiwan,http://vip.bhh.indevs.in/smt2.php?id=sanlitaiwan
+三立戏剧台,http://vip.bhh.indevs.in/smt2.php?id=sanlixiju_twn
+三立综合 Sanli Metro,http://vip.bhh.indevs.in/smt2.php?id=sanlizhonghe
+三立都会台,http://vip.bhh.indevs.in/smt2.php?id=sanlidouhui_twn
+东森综合 ETTV Metro,http://vip.bhh.indevs.in/smt2.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,http://vip.bhh.indevs.in/smt2.php?id=ettvdrama
+公视2,http://vip.bhh.indevs.in/smt2.php?id=ctv2_twn
+大爱1台,http://vip.bhh.indevs.in/smt2.php?id=daai_twn
+龙华戏剧 Lunghua Drama,http://vip.bhh.indevs.in/smt2.php?id=lunghuaxiju_twn
+龙华经典台,http://vip.bhh.indevs.in/smt2.php?id=lunghuajingdian_twn
+龙华偶像,http://vip.bhh.indevs.in/smt2.php?id=lunghuaidol_twn
+AXN Taiwan,http://vip.bhh.indevs.in/smt2.php?id=axn_twn
+靖天国际台,http://vip.bhh.indevs.in/smt2.php?id=jingtianintl_twn
+CINEMAX,http://vip.bhh.indevs.in/smt2.php?id=cinemax_twn
+年代新闻,http://vip.bhh.indevs.in/smt2.php?id=niandainews_twn
+纬来日本台,http://vip.bhh.indevs.in/smt2.php?id=videolandjapan
+纬来电影台,http://vip.bhh.indevs.in/smt2.php?id=videolandmovie
+纬来体育台,http://vip.bhh.indevs.in/smt2.php?id=videolandsport
+纬来综合台,http://vip.bhh.indevs.in/smt2.php?id=videolandzonghe
+纬来育乐,http://vip.bhh.indevs.in/smt2.php?id=videolandmax
+纬来精彩,http://vip.bhh.indevs.in/smt2.php?id=videolandtv
+DW (Deutsch),http://vip.bhh.indevs.in/smt2.php?id=dw_twn
+好消息 2,http://vip.bhh.indevs.in/smt2.php?id=good2_twn
+大爱2台,http://vip.bhh.indevs.in/smt2.php?id=daai2_twn
+亚洲美食,http://vip.bhh.indevs.in/smt2.php?id=afc_twn
+亚洲旅游 TLC Asia,http://vip.bhh.indevs.in/smt2.php?id=tlc_twn
+东森电影 ETTV Movie,http://vip.bhh.indevs.in/smt2.php?id=ettvmovie
+阿里郎 Arirang,http://vip.bhh.indevs.in/smt2.php?id=arirang_twn
+博斯运动 1,http://vip.bhh.indevs.in/smt2.php?id=bosisport1_twn
+博斯运动 2,http://vip.bhh.indevs.in/smt2.php?id=bosisport2_twn
+博斯高球2 HD,http://vip.bhh.indevs.in/smt2.php?id=bosigolf2_twn
+博斯网球 HD,http://vip.bhh.indevs.in/smt2.php?id=bositennis_twn
+东森洋片 ETTV Western,http://vip.bhh.indevs.in/smt2.php?id=ettvwestern
+龙华洋片 Lunghua Western,http://vip.bhh.indevs.in/smt2.php?id=lunghuawestern_twn
+博斯无限,http://vip.bhh.indevs.in/smt2.php?id=bosiunlimited_twn
+MTV Live,http://vip.bhh.indevs.in/smt2.php?id=mtvhd_twn
+龙详时代,http://vip.bhh.indevs.in/smt2.php?id=lungxiangtime_twn
+EYETV 旅游,http://vip.bhh.indevs.in/smt2.php?id=eyetvtravel_twn
+靖天卡通台,http://vip.bhh.indevs.in/smt2.php?id=jingtiancartoon_twn
+EYETV 戏剧,http://vip.bhh.indevs.in/smt2.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,http://vip.bhh.indevs.in/smt2.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,http://vip.bhh.indevs.in/smt2.php?id=yoyo_twn
+美亚电影,http://vip.bhh.indevs.in/smt2.php?id=meiyamovie_twn
+爱尔达戏剧台,http://vip.bhh.indevs.in/smt2.php?id=eltadrama_twn
+TVBS News 新聞台,http://vip.bhh.indevs.in/smt2.php?id=tvbs_n
+Asia Food Network,http://vip.bhh.indevs.in/smt2.php?id=Afc
+東森新聞 ETTV News,http://vip.bhh.indevs.in/smt2.php?id=ettvnews
+東森財經新聞 ETTV Business,http://vip.bhh.indevs.in/smt2.php?id=ettvcaijing_twn
+中天新聞 CTI News,http://vip.bhh.indevs.in/smt2.php?id=ctinews
+非凡新聞台,http://vip.bhh.indevs.in/smt2.php?id=feifannews_twn
+台視新聞台 TTV News,http://vip.bhh.indevs.in/smt2.php?id=ttvnews_twn
+Elta体育1台,http://vip.bhh.indevs.in/smt2.php?id=eltasport1_twn
+Elta體育2台,http://vip.bhh.indevs.in/smt2.php?id=eltasport2_twn
+Elta體育3台,http://vip.bhh.indevs.in/smt2.php?id=eltasport3_twn
+民視新聞台 FTV News,http://vip.bhh.indevs.in/smt2.php?id=ftvnew_taiwan
+寰宇新聞台,http://vip.bhh.indevs.in/smt2.php?id=huanyuxinwen_twn
+中視新聞台,http://vip.bhh.indevs.in/smt2.php?id=zhongshinews_twn
+DAZN 1,http://vip.bhh.indevs.in/smt2.php?id=dazn1_twn
+DAZN 2,http://vip.bhh.indevs.in/smt2.php?id=dazn2_twn
+探索频道,http://vip.bhh.indevs.in/smt2.php?id=discoverych_twn
+
+TVBS 歡樂台,https://yg.ygbox.de5.net/smt2.php?id=tvbshuanle_twn
+TVBS HD,https://yg.ygbox.de5.net/smt2.php?id=tvbs
+中天娱乐 CTI Entertaiment,https://yg.ygbox.de5.net/smt2.php?id=ctient
+中天综合 CTI Metro,https://yg.ygbox.de5.net/smt2.php?id=ctizhonghe
+中天亚洲台,https://yg.ygbox.de5.net/smt2.php?id=ctiasia_twn
+台视 TTV HD,https://yg.ygbox.de5.net/smt2.php?id=ttv_taiwan
+台视综合台,https://yg.ygbox.de5.net/smt2.php?id=ttvzhonghe
+中视 HD,https://yg.ygbox.de5.net/smt2.php?id=zhongshihd_twn
+民视 HD,https://yg.ygbox.de5.net/smt2.php?id=ftvhd_taiwan
+民视台湾台,https://yg.ygbox.de5.net/smt2.php?id=ftvtaiwan_twn
+华视 CTS HD,https://yg.ygbox.de5.net/smt2.php?id=ctshd_twn
+公视 CTV,https://yg.ygbox.de5.net/smt2.php?id=ctv18_twn
+八大第一 GTV First,https://yg.ygbox.de5.net/smt2.php?id=badafirst
+八大综合 GTV Metro,https://yg.ygbox.de5.net/smt2.php?id=badazhonghe
+八大戏剧 GTV Drama,https://yg.ygbox.de5.net/smt2.php?id=badadrama
+八大娱乐 GTV Entertainment,https://yg.ygbox.de5.net/smt2.php?id=badaentertain
+HBO_HD,https://yg.ygbox.de5.net/smt2.php?id=hbohd_twn
+HBO_HITS,https://yg.ygbox.de5.net/smt2.php?id=hbohits_twn
+HBO Signature Taiwan,https://yg.ygbox.de5.net/smt2.php?id=hbosignature_twn
+Hollywood Movies,https://yg.ygbox.de5.net/smt2.php?id=hollywoodmovies_twn
+三立台湾 Sanli Taiwan,https://yg.ygbox.de5.net/smt2.php?id=sanlitaiwan
+三立戏剧台,https://yg.ygbox.de5.net/smt2.php?id=sanlixiju_twn
+三立综合 Sanli Metro,https://yg.ygbox.de5.net/smt2.php?id=sanlizhonghe
+三立都会台,https://yg.ygbox.de5.net/smt2.php?id=sanlidouhui_twn
+东森综合 ETTV Metro,https://yg.ygbox.de5.net/smt2.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,https://yg.ygbox.de5.net/smt2.php?id=ettvdrama
+公视2,https://yg.ygbox.de5.net/smt2.php?id=ctv2_twn
+大爱1台,https://yg.ygbox.de5.net/smt2.php?id=daai_twn
+龙华戏剧 Lunghua Drama,https://yg.ygbox.de5.net/smt2.php?id=lunghuaxiju_twn
+龙华经典台,https://yg.ygbox.de5.net/smt2.php?id=lunghuajingdian_twn
+龙华偶像,https://yg.ygbox.de5.net/smt2.php?id=lunghuaidol_twn
+AXN Taiwan,https://yg.ygbox.de5.net/smt2.php?id=axn_twn
+靖天国际台,https://yg.ygbox.de5.net/smt2.php?id=jingtianintl_twn
+CINEMAX,https://yg.ygbox.de5.net/smt2.php?id=cinemax_twn
+年代新闻,https://yg.ygbox.de5.net/smt2.php?id=niandainews_twn
+纬来日本台,https://yg.ygbox.de5.net/smt2.php?id=videolandjapan
+纬来电影台,https://yg.ygbox.de5.net/smt2.php?id=videolandmovie
+纬来体育台,https://yg.ygbox.de5.net/smt2.php?id=videolandsport
+纬来综合台,https://yg.ygbox.de5.net/smt2.php?id=videolandzonghe
+纬来育乐,https://yg.ygbox.de5.net/smt2.php?id=videolandmax
+纬来精彩,https://yg.ygbox.de5.net/smt2.php?id=videolandtv
+DW (Deutsch),https://yg.ygbox.de5.net/smt2.php?id=dw_twn
+好消息 2,https://yg.ygbox.de5.net/smt2.php?id=good2_twn
+大爱2台,https://yg.ygbox.de5.net/smt2.php?id=daai2_twn
+亚洲美食,https://yg.ygbox.de5.net/smt2.php?id=afc_twn
+亚洲旅游 TLC Asia,https://yg.ygbox.de5.net/smt2.php?id=tlc_twn
+东森电影 ETTV Movie,https://yg.ygbox.de5.net/smt2.php?id=ettvmovie
+阿里郎 Arirang,https://yg.ygbox.de5.net/smt2.php?id=arirang_twn
+博斯运动 1,https://yg.ygbox.de5.net/smt2.php?id=bosisport1_twn
+博斯运动 2,https://yg.ygbox.de5.net/smt2.php?id=bosisport2_twn
+博斯高球2 HD,https://yg.ygbox.de5.net/smt2.php?id=bosigolf2_twn
+博斯网球 HD,https://yg.ygbox.de5.net/smt2.php?id=bositennis_twn
+东森洋片 ETTV Western,https://yg.ygbox.de5.net/smt2.php?id=ettvwestern
+龙华洋片 Lunghua Western,https://yg.ygbox.de5.net/smt2.php?id=lunghuawestern_twn
+博斯无限,https://yg.ygbox.de5.net/smt2.php?id=bosiunlimited_twn
+MTV Live,https://yg.ygbox.de5.net/smt2.php?id=mtvhd_twn
+龙详时代,https://yg.ygbox.de5.net/smt2.php?id=lungxiangtime_twn
+EYETV 旅游,https://yg.ygbox.de5.net/smt2.php?id=eyetvtravel_twn
+靖天卡通台,https://yg.ygbox.de5.net/smt2.php?id=jingtiancartoon_twn
+EYETV 戏剧,https://yg.ygbox.de5.net/smt2.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,https://yg.ygbox.de5.net/smt2.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,https://yg.ygbox.de5.net/smt2.php?id=yoyo_twn
+美亚电影,https://yg.ygbox.de5.net/smt2.php?id=meiyamovie_twn
+爱尔达戏剧台,https://yg.ygbox.de5.net/smt2.php?id=eltadrama_twn
+TVBS News 新聞台,https://yg.ygbox.de5.net/smt2.php?id=tvbs_n
+Asia Food Network,https://yg.ygbox.de5.net/smt2.php?id=Afc
+東森新聞 ETTV News,https://yg.ygbox.de5.net/smt2.php?id=ettvnews
+東森財經新聞 ETTV Business,https://yg.ygbox.de5.net/smt2.php?id=ettvcaijing_twn
+中天新聞 CTI News,https://yg.ygbox.de5.net/smt2.php?id=ctinews
+非凡新聞台,https://yg.ygbox.de5.net/smt2.php?id=feifannews_twn
+台視新聞台 TTV News,https://yg.ygbox.de5.net/smt2.php?id=ttvnews_twn
+Elta体育1台,https://yg.ygbox.de5.net/smt2.php?id=eltasport1_twn
+Elta體育2台,https://yg.ygbox.de5.net/smt2.php?id=eltasport2_twn
+Elta體育3台,https://yg.ygbox.de5.net/smt2.php?id=eltasport3_twn
+民視新聞台 FTV News,https://yg.ygbox.de5.net/smt2.php?id=ftvnew_taiwan
+寰宇新聞台,https://yg.ygbox.de5.net/smt2.php?id=huanyuxinwen_twn
+中視新聞台,https://yg.ygbox.de5.net/smt2.php?id=zhongshinews_twn
+DAZN 1,https://yg.ygbox.de5.net/smt2.php?id=dazn1_twn
+DAZN 2,https://yg.ygbox.de5.net/smt2.php?id=dazn2_twn
+探索频道,https://yg.ygbox.de5.net/smt2.php?id=discoverych_twn
+
+直播频道,#genre#
+直播室101,rtsp://115.153.254.117/PLTV/88888888/224/3221226231/10000100000000060000000001398612_0.smil
+直播室102,rtsp://115.153.254.117/PLTV/88888888/224/3221226208/10000100000000060000000001398613_0.smil
+直播室103,rtsp://115.153.254.117/PLTV/88888888/224/3221226234/10000100000000060000000001398614_0.smil
+直播室104,rtsp://115.153.254.117/PLTV/88888888/224/3221226228/10000100000000060000000001398576_0.smil
+直播室105,rtsp://115.153.254.117/PLTV/88888888/224/3221226211/10000100000000060000000001398615_0.smil
+直播室106,rtsp://115.153.254.117/PLTV/88888888/224/3221226237/10000100000000060000000001398616_0.smil
+直播室107,rtsp://115.153.254.117/PLTV/88888888/224/3221226214/10000100000000060000000001398617_0.smil
+直播室108,rtsp://115.153.254.117/PLTV/88888888/224/3221226252/10000100000000060000000001408355_0.smil
+直播室109,rtsp://115.153.254.117/PLTV/88888888/224/3221226226/10000100000000060000000001408356_0.smil
+直播室110,rtsp://115.153.254.117/PLTV/88888888/224/3221226255/10000100000000060000000001408357_0.smil
+直播室111,rtsp://115.153.254.117/PLTV/88888888/224/3221226229/10000100000000060000000001408358_0.smil
